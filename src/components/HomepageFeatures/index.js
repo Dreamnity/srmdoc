@@ -4,17 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'The SMP',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The SMP is developed with speed, realism and simplicity in mind
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Events',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
