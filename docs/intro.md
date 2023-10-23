@@ -8,9 +8,7 @@ This guide covers most of the server's system.
 
 ## The server
 
-This server is originally made for SRM University.
-
-It is a simple server.
+This server is originally made for SRM IST.
 
 We support cracked players, any versions(java 1.8 - 1.20.2, or latest bedrock)
 
