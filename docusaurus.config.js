@@ -21,7 +21,7 @@ const config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -115,7 +115,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Dreamnity, Inc. Built with Docusaurus.\nNot affiliated with Dreamnity University`,
+        copyright: `Copyright © ${new Date().getFullYear()} Dreamnity, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

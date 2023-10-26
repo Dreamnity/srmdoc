@@ -14,4 +14,4 @@ You can join using the following:
   - Cracked should work
 - Address
   - Address: dreamnity.ddns.net
-  - Bedrock port: 25565
+  - Bedrock port: 19132
