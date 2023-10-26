@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SRM IST',
-  tagline: "SRM IST's largest minecraft network",
+  title: 'Dreamnity',
+  tagline: "Dreamnity's largest minecraft network",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://srmist.ddns.net:8083',
+  url: 'https://dreamnity.ddns.net:8083',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SRM Minecraft network',
+        title: 'Dreamnity Minecraft network',
         logo: {
-          alt: 'SRM',
-          src: 'img/SRM.png',
+          alt: 'Dreamnity',
+          src: 'img/Dreamnity.png',
         },
         items: [
           {
@@ -78,12 +78,12 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'http://srmist.ddns.net/map',
+            href: 'http://dreamnity.ddns.net/map',
             label: 'Webmap',
             position: 'right',
           },
           {
-            href: 'http://srmist.ddns.net/invite',
+            href: 'http://dreamnity.ddns.net/invite',
             label: 'Discord',
             position: 'right'
           }
@@ -106,16 +106,16 @@ const config = {
             items: [
               {
                 label: 'Server status',
-                href: 'https://mcstatus.io/status/java/srmist.ddns.net',
+                href: 'https://mcstatus.io/status/java/dreamnity.ddns.net',
               },
               {
                 label: 'Discord',
-                href: 'http://srmist.ddns.net/invite',
+                href: 'http://dreamnity.ddns.net/invite',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SRM IST, Inc. Built with Docusaurus.\nNot affiliated with SRM University`,
+        copyright: `Copyright © ${new Date().getFullYear()} Dreamnity, Inc. Built with Docusaurus.\nNot affiliated with Dreamnity University`,
       },
       prism: {
         theme: lightCodeTheme,

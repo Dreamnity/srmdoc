@@ -13,5 +13,5 @@ You can join using the following:
   - Version: latest
   - Cracked should work
 - Address
-  - Address: srmist.ddns.net
+  - Address: dreamnity.ddns.net
   - Bedrock port: 25565

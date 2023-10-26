@@ -25,7 +25,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--primary"
-            to="http://srmist.ddns.net/map">
+            to="http://dreamnity.ddns.net/map">
             Explore the map
           </Link>
         </div>
